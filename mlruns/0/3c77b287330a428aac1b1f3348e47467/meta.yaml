@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Github/MLOps_new/mlruns/0/3c77b287330a428aac1b1f3348e47467/artifacts
+end_time: 1696420004281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c77b287330a428aac1b1f3348e47467
+run_name: sedate-grub-862
+run_uuid: 3c77b287330a428aac1b1f3348e47467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696420002475
+status: 3
+tags: []
+user_id: user

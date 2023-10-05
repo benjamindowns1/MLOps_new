@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Github/MLOps_new/mlruns/0/ec216dc78735403b9e3ce1162a4d2689/artifacts
+end_time: 1696419387011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec216dc78735403b9e3ce1162a4d2689
+run_name: trusting-slug-803
+run_uuid: ec216dc78735403b9e3ce1162a4d2689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696419375805
+status: 3
+tags: []
+user_id: user
